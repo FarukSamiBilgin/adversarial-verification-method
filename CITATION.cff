@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Adversarial verification of a computational-physics design study: catching a gauge artifact, a tautology, and a silent parameter error"
+authors:
+  - family-names: Bilgin
+    given-names: Faruk Sami
+    affiliation: Independent Researcher
+    orcid: "https://orcid.org/0009-0001-9064-4410"
+date-released: 2026-11-15
+license: CC-BY-4.0
